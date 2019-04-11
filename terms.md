@@ -64,7 +64,7 @@ _Developer_ guarantees that _Developer_ is aware that:
 
 2.  Common legal agreements, such as independent contractor, employee, and company founder agreements, transfer ownership of intellectual property from developers to companies.
 
-3.  When work made for hire rules or an assignment agreement transfers ownership of intellectual property in software to a company, then the company, not the developer, has the legal right to license the software.
+3.  When a work made for hire rule or assignment agreement transfers ownership of intellectual property in software to a company, then the company, not the developer, has the legal right to license the software.
 
 ### <a id="Ensure_Rights_to_License"></a>Ensure Rights to License
 

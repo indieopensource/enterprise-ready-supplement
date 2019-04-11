@@ -1,4 +1,4 @@
-# Enterprise Ready Open Software License
+# Enterprise Ready Open Software Supplement
 
 ## <a id="Purpose"></a>Purpose
 
@@ -28,7 +28,7 @@ These terms, together with the cosigned **Proposal** referencing them, make up a
 
     2.  the **Term** of the license, six calendar months by default
 
-## <a id="Supplementary_License"></a>Supplementary License
+## <a id="Supplementary_Terms"></a>Supplementary Terms
 
 These terms supplement the **Public License** that applies to the _Software_. Though part of a single transaction, these terms and the _Public License_ will be interpreted as entirely independent legal documents.
 

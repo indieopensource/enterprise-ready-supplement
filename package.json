@@ -13,9 +13,9 @@
   "scripts": {
     "test": "commonform lint terms.cform",
     "build": "run-p build:* && npm run pdf",
-    "build:markdown": "commonform render -f markdown --title 'Enterprise Ready Open Software License' --blanks blanks.json --signatures signatures.json terms.cform > terms.md",
-    "build:html": "commonform render -f html5 --title 'Enterprise Ready Open Software License' --blanks blanks.json --signatures signatures.json --ordered-lists terms.cform > terms.html",
-    "build:docx": "commonform render -f docx --title 'Enterprise Ready Open Software License' --blanks blanks.json --signatures signatures.json --number outline --left-align-title --indent-margins --styles styles.json terms.cform > terms.docx",
+    "build:markdown": "commonform render -f markdown --title 'Enterprise Ready Open Software Supplement' --blanks blanks.json --signatures signatures.json terms.cform > terms.md",
+    "build:html": "commonform render -f html5 --title 'Enterprise Ready Open Software Supplement' --blanks blanks.json --signatures signatures.json --ordered-lists terms.cform > terms.html",
+    "build:docx": "commonform render -f docx --title 'Enterprise Ready Open Software Supplement' --blanks blanks.json --signatures signatures.json --number outline --left-align-title --indent-margins --styles styles.json terms.cform > terms.docx",
     "pdf": "unoconv terms.docx"
   }
 }

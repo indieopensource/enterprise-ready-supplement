@@ -54,7 +54,7 @@
 
         \Provide Assurance About Patents\  <Developer> guarantees that as of the date of this agreement, <Developer> is not aware of any patent that the <Software> infringes, or that <Company> would infringe by <Expected Use of the Software>, that is not covered by the <Public License>.
 
-        \Only Depend on Open Software\  <Developer> guarantees that any <Software Dependencies> are <Open Software> and generally available for <Company> to download, free of charge, from a <Public Software Repository>.  <Developer> does not agree to any service-level agreement or other specific guarantee about any <Public Software Repository>.
+        \Only Depend on Open Software\  <Developer> guarantees that any <Software Dependencies> are and will be <Open Software> generally available for <Company> to download, free of charge, from a <Public Software Repository>.  <Developer> does not agree to any service-level agreement or other specific guarantee about any <Public Software Repository>.
 
         \Ensure License Compatibility\  <Developer> guarantees that the license terms for <Software Dependencies> and the <Public License> are compatible, so that <Developer> and others have permission to run, combine, and distribute the combination of <Software> and its <Software Dependencies>.
 

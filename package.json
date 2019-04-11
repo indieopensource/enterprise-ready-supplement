@@ -1,0 +1,21 @@
+{
+  "private": true,
+  "devDependencies": {
+    "commonform-cli": "^0.31.0",
+    "husky": "^1.3.1",
+    "npm-run-all": "^4.1.5"
+  },
+  "husky": {
+    "hooks": {
+      "pre-commit": "npm run build:markdown && git add terms.md"
+    }
+  },
+  "scripts": {
+    "test": "commonform lint terms.cform",
+    "build": "run-p build:* && npm run pdf",
+    "build:markdown": "commonform render -f markdown --title 'Enterprise Ready Open Software License' --blanks blanks.json --signatures signatures.json terms.cform > terms.md",
+    "build:html": "commonform render -f html5 --title 'Enterprise Ready Open Software License' --blanks blanks.json --signatures signatures.json --ordered-lists terms.cform > terms.html",
+    "build:docx": "commonform render -f docx --title 'Enterprise Ready Open Software License' --blanks blanks.json --signatures signatures.json --number outline --left-align-title --indent-margins --styles styles.json terms.cform > terms.docx",
+    "pdf": "unoconv terms.docx"
+  }
+}

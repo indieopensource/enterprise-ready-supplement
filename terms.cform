@@ -2,21 +2,25 @@
 
     \Agreement\  These terms, together with the cosigned ""Proposal"" referencing them, make up an agreement between the ""Developer"" selling the license and the ""Company"" buying the license.
 
-    \Deal Details\  The <Proposal> must identify:
+    \Deal Details\
 
-        \\  the <Developer>
+        \\  The <Proposal> must identify:
 
-        \\  whether the <Developer> is an individual or a company
+            \\  the <Developer>
 
-        \\  the <Company>
+            \\  whether the <Developer> is an individual or a company
 
-        \\  the ""Software"" the license covers
+            \\  the <Company>
 
-        \\  the ""License Fee"" for the license
+            \\  the ""Software"" the license covers
 
-        \\  the ""Payment Method"" <Company> will use to pay the <License Fee>, or if the <Proposal> doesn't say, [default payment method]
+            \\  the ""License Fee"" for the license
 
-        \\  the ""Term"" of the license, or if the <Proposal> doesn't say, [default term]
+        \\  The <Proposal> may identify:
+
+            \\  the ""Payment Method"" <Company> will use to pay the <License Fee>, which by default is [default payment method]
+
+            \\  the ""Term"" of the license, [default term] by default
 
     \Supplementary License\  These terms supplement the ""Public License"" that applies to the <Software>.  Though part of a single transaction, these terms and the <Public License> will be interpreted as entirely independent legal documents.
 

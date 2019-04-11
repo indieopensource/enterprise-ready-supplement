@@ -10,21 +10,23 @@ These terms, together with the cosigned **Proposal** referencing them, make up a
 
 ## <a id="Deal_Details"></a>Deal Details
 
-The _Proposal_ must identify:
+1.  The _Proposal_ must identify:
 
-1.  the _Developer_
+    1.  the _Developer_
 
-2.  whether the _Developer_ is an individual or a company
+    2.  whether the _Developer_ is an individual or a company
 
-3.  the _Company_
+    3.  the _Company_
 
-4.  the **Software** the license covers
+    4.  the **Software** the license covers
 
-5.  the **License Fee** for the license
+    5.  the **License Fee** for the license
 
-6.  the **Payment Method** _Company_ will use to pay the _License Fee_, or if the _Proposal_ doesn't say, bank-to-bank transfer, such as FedWire, ACH, SEPA, or SWIFT, if possible, and otherwise a common electronic payment system, such as PayPal, Stripe, or Square Cash
+2.  The _Proposal_ may identify:
 
-7.  the **Term** of the license, or if the _Proposal_ doesn't say, six calendar months
+    1.  the **Payment Method** _Company_ will use to pay the _License Fee_, which by default is bank-to-bank transfer, such as FedWire, ACH, SEPA, or SWIFT, if possible, and otherwise a common electronic payment system, such as PayPal, Stripe, or Square Cash
+
+    2.  the **Term** of the license, six calendar months by default
 
 ## <a id="Supplementary_License"></a>Supplementary License
 

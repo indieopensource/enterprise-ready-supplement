@@ -154,7 +154,7 @@ Both sides agree that to give _Notice_ under this agreement, the side giving _No
 
 ### <a id="Indemnification_Process"></a>Indemnification Process
 
-Both sides agree that to receive _Indemnification_ under this agreement, they must give _Notice_ of any covered _Legal Claims_ quickly, allow the other side to control investigation, defense, and settlement, and cooperate with those efforts. Both sides agree that if they fail to give _Notice_ of any covered _Legal Claims_ quickly, _Indemnification_ will not cover amounts that could have been defended against or mitigated if _Notice_ had been given quickly. Both sides agree that if they take control of the defense and settlement of any _Legal Claims_ covered by _Indemnification_, they will not agree to any settlements that admit fault or impose obligations on the other side without their _Permission_.
+_Company_ agrees that to receive _Indemnification_ under this agreement, _Company_ must give _Notice_ of any covered _Legal Claims_ quickly, allow _Developer_ to control investigation, defense, and settlement, and cooperate with those efforts. _Company_ agree that if _Company_ fails to give _Notice_ of any covered _Legal Claims_ quickly, _Indemnification_ will not cover amounts that could have been defended against or mitigated if _Notice_ had been given quickly. _Developer_ agrees that if _Developer_ takes control of the defense and settlement of any _Legal Claims_ covered by _Indemnification_, _Developer_ will not agree to any settlements that admit fault for, or impose obligations on, _Company_ without _Company_'s _Permission_.
 
 ## <a id="General_Contract_Terms"></a>General Contract Terms
 

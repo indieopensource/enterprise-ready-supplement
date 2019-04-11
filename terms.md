@@ -98,7 +98,7 @@ If the _Public License_ does not explicitly grant a patent license, then _Develo
 
 _Developer_ agrees that if _Company_ fails to comply with any condition or other rule of the _Public License_, _Company_ can keep its license by taking all practical steps to comply within 30 days after receiving notice of the failure, from _Developer_ or anyone else.
 
-### <a id="Term_of_Company's_Obligations"></a>Term of Company's Obligations
+### <a id="Term_of_Developer's_Obligations"></a>Term of Developer's Obligations
 
 [Developer's Obligations](#Developer's_Obligations) continues until this agreement ends.
 

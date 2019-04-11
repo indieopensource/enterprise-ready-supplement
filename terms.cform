@@ -62,7 +62,7 @@
 
             \\  <Developer> does not agree to any service-level agreement or other specific guarantee about any <Public Software Repository>.
 
-        \Ensure License Compatibility\  <Developer> guarantees that the license terms for <Software Dependencies> and the <Public License> are and will remain compatible, so that <Developer> and others have permission to run, combine, and distribute the combination of <Software> and its <Software Dependencies>.
+        \Ensure License Compatibility\  <Developer> guarantees that the license terms for <Software Dependencies> and the <Public License> are and will remain collectively compatible, so that <Developer> and others have permission to run, combine, and distribute the combination of <Software> and its <Software Dependencies>.
 
         # This section is based on the "Patent" section of the Blue Oak Model License 1.0.0.
         \Make Patent License Explicit\  If the <Public License> does not explicitly grant a patent license, then <Developer> licenses <Company> to do everything with the software that would otherwise infringe any patent claims <Developer> can license, or becomes able to license.

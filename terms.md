@@ -130,7 +130,7 @@ _Company_ may renew this agreement, for an additional period as long as the _Ter
 
 ### <a id="Only_Express_Warranties"></a>Only Express Warranties
 
-With the exception of its obligations in [Developer's Obligations](#Developer's_Obligations), _Developer_ provides the _Software_ as is, without any warranty.
+With the exception of _Developer_'s obligations in [Developer's Obligations](#Developer's_Obligations), _Developer_ provides the _Software_ as is, without any warranty.
 
 ### <a id="Limited_Damages"></a>Limited Damages
 

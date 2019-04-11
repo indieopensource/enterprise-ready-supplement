@@ -46,9 +46,11 @@
 
         \Understand IP Basics\  <Developer> guarantees that <Developer> is broadly aware that:
 
-            \\  Legal "work made for hire" rules can make employers and clients, rather than developers, owners of intellectual property in software developers create
+            \Work Made for Hire\  Legal "work made for hire" rules can make employers and clients, rather than developers, owners of intellectual property in software.
 
-            \\  Common legal agreements, such as independent contractor, employee, and company founder contracts, transfer ownership of intellectual property to others.
+            \Intellectual Property Assignments\  Common legal agreements, such as independent contractor, employee, and company founder agreements, assign ownership of intellectual property to companies.
+
+            \Owners License\  When work made for hire rules or an assignment agreement transfers ownership of intellectual property in software to a company, then the company, not the developer, has the legal right to license the software.
 
         \Provide Assurance About Patents\  <Developer> guarantees that as of the date of this agreement, <Developer> is not aware of any patent that the <Software> infringes, or that <Company> would infringe by <Permitted Use of the Software>, that is not covered by the <Public License>.
 

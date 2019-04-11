@@ -84,7 +84,11 @@ _Developer_ guarantees that as of the date of this agreement, _Developer_ is not
 
 ### <a id="Only_Depend_on_Open_Software"></a>Only Depend on Open Software
 
-_Developer_ guarantees that any _Software Dependencies_ are and will be _Open Software_ generally available for _Company_ to download, free of charge, from a _Public Software Repository_. _Developer_ does not agree to any service-level agreement or other specific guarantee about any _Public Software Repository_.
+1.  _Developer_ guarantees that any _Software Dependencies_ are and will be _Open Software_ generally available for _Company_ to download, free of charge, from a _Public Software Repository_.
+
+2.  _Company_ agrees that _Developer_ may rely on public statements by developers of software, copies of and references to specific public licenses in "README", "LICENSE", source code, and similar files, and licensing metadata in "package.json" and similar, standardized metadata files, to determine whether _Software Dependencies_ are _Open Software_.
+
+3.  _Developer_ does not agree to any service-level agreement or other specific guarantee about any _Public Software Repository_.
 
 ### <a id="Ensure_License_Compatibility"></a>Ensure License Compatibility
 

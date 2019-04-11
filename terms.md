@@ -26,7 +26,7 @@ These terms, together with the cosigned **Proposal** referencing them, make up a
 
     1.  the **Payment Method** _Company_ will use to pay the _Fee_, which by default is bank-to-bank transfer, such as FedWire, ACH, SEPA, or SWIFT, if possible, and otherwise a common electronic payment system, such as PayPal, Stripe, or Square Cash
 
-    2.  the **Term** of this agreement, which by default is six calendar months
+    2.  the **Term** of this agreement, which by default is one calendar year
 
 ## <a id="Supplementary_Terms"></a>Supplementary Terms
 

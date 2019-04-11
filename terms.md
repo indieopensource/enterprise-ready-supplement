@@ -88,7 +88,7 @@ _Developer_ guarantees that any _Software Dependencies_ are and will be _Open So
 
 ### <a id="Ensure_License_Compatibility"></a>Ensure License Compatibility
 
-_Developer_ guarantees that the license terms for _Software Dependencies_ and the _Public License_ are compatible, so that _Developer_ and others have permission to run, combine, and distribute the combination of _Software_ and its _Software Dependencies_.
+_Developer_ guarantees that the license terms for _Software Dependencies_ and the _Public License_ are and will remain compatible, so that _Developer_ and others have permission to run, combine, and distribute the combination of _Software_ and its _Software Dependencies_.
 
 ## <a id="Clear_Patent_License"></a>Clear Patent License
 

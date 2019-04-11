@@ -150,7 +150,7 @@ Subject to [Damages Limit Exceptions](#Damages_Limit_Exceptions), _Developer_'s 
 
 ### <a id="Notice_Process"></a>Notice Process
 
-Both sides agree that to give _Notice_ under this agreement, the side giving _Notice_ must send by e-mail to the address the recipient given with its signature, or to a different address given later for _Notice_ going forward. If either side finds that e-mail can't be delivered to the e-mail address given, it may give _Notice_ by registered mail to the address on file for the recipient with the state under whose laws it is organized.
+Both sides agree that to give _Notice_ under this agreement, the side giving _Notice_ must send by e-mail to the address the recipient given with its signature, or to a different address given later for _Notice_ going forward. If either side finds that e-mail can't be delivered to the e-mail address given, it may give _Notice_ by registered mail to the address on file for the recipient with the state under whose laws it is organized, if the recipient is a company, or to the recipient's home address, if the recipient is an individual.
 
 ### <a id="Indemnification_Process"></a>Indemnification Process
 

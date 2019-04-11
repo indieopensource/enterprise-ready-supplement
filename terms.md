@@ -30,7 +30,7 @@ These terms, together with the cosigned **Proposal** referencing them, make up a
 
 ## <a id="Supplementary_Terms"></a>Supplementary Terms
 
-These terms supplement the **Public License** that applies to the _Software_. Though part of a single transaction, these terms and the _Public License_ will be interpreted as entirely independent legal documents.
+These terms supplement the **Public License** that applies to the _Software_. Though part of a single transaction, these terms and the _Public License_ will be interpreted as entirely independent legal documents, so that _Developer_ and _Company_ can continue to rely on guidance for the _Public License_ as a standardized form.
 
 ## <a id="Company's_Obligations"></a>Company's Obligations
 

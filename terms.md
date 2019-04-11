@@ -222,7 +222,7 @@ Both sides consent to the exclusive jurisdiction of _Developer's Local Courts_. 
 
 7.  **Legal Claims** means claims, demands, lawsuits, and other legal actions.
 
-8.  **Notice** means a written communication from one side to the other per [Notice Process](#Notice_Process).
+8.  **Notice** means a written communication from one side to the other under [Notice Process](#Notice_Process).
 
 9.  **Open Software** means software licensed to the public on the terms of a standardized form license certified by Blue Oak Council or approved by the Open Source Initiative.
 

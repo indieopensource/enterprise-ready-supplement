@@ -98,7 +98,7 @@ If the _Public License_ does not explicitly grant a patent license, then _Develo
 
 _Developer_ agrees that if _Company_ fails to comply with any condition or other rule of the _Public License_, _Company_ can keep its license by taking all practical steps to comply within 30 calendar days after receiving notice of the failure, from _Developer_ or anyone else.
 
-### <a id="Accountability"></a>Accountability
+### <a id="Stand_Behind_Guarantees"></a>Stand Behind Guarantees
 
 #### <a id="Indemnification"></a>Indemnification
 
@@ -140,7 +140,7 @@ Subject to [Damages Limit Exceptions](#Damages_Limit_Exceptions), _Developer_'s 
 
 [Limited Damages](#Limited_Damages) does not limit damages for breach of:
 
-1.  [Accountability](#Accountability)
+1.  [Stand Behind Guarantees](#Stand_Behind_Guarantees)
 
 2.  [Company's Obligations](#Company's_Obligations)
 

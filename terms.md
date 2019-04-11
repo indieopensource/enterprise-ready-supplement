@@ -198,13 +198,13 @@ Each side may assign all its rights, licenses, and obligations under this agreem
 
 Both sides agree to bring any _Lawsuit_ in _Developer's Local Courts_.
 
-#### <a id="Exclusive_Jurisdiction"></a>Exclusive Jurisdiction
-
-Both sides consent to the exclusive jurisdiction of _Developer's Local Courts_. Both sides may enforce judgments from _Developer's Local Courts_ in other jurisdictions.
-
 #### <a id="Inconvenient_Forum_Waiver"></a>Inconvenient Forum Waiver
 
 Both sides waive any objection to hearing any _Lawsuit_ in _Developer's Local Courts_.
+
+#### <a id="Exclusive_Jurisdiction"></a>Exclusive Jurisdiction
+
+Both sides consent to the exclusive jurisdiction of _Developer's Local Courts_. Both sides may enforce judgments from _Developer's Local Courts_ in other jurisdictions.
 
 ## <a id="Definitions"></a>Definitions
 

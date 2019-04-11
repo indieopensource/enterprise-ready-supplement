@@ -62,7 +62,7 @@ _Company_ agrees to pay all tax on fees under this agreement, except tax _Develo
 
 2.  _Developer_ guarantees that _Developer_ will not release or incorporate any work into the _Software_ that _Developer_ does not have the right to license.
 
-### <a id="Understand_IP_Basics"></a>Understand IP Basics
+### <a id="Understand_Intellectual_Property_Basics"></a>Understand Intellectual Property Basics
 
 _Developer_ guarantees that _Developer_ is broadly aware that:
 

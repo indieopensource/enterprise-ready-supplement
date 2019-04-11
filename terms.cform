@@ -38,12 +38,6 @@
 
     \Developer's Obligations\
 
-        \Ensure Rights to License\
-
-            \\  <Developer> guarantees that <Developer> has all the rights needed to license work in the <Software> as of the date of this agreement.
-
-            \\  <Developer> guarantees that <Developer> will not release or incorporate any work into the <Software> that <Developer> does not have the right to license.
-
         \Understand Intellectual Property Basics\  <Developer> guarantees that <Developer> is broadly aware that:
 
             \Work Made for Hire\  Legal "work made for hire" rules can make employers and clients, rather than developers, owners of intellectual property in software.
@@ -51,6 +45,12 @@
             \Intellectual Property Assignments\  Common legal agreements, such as independent contractor, employee, and company founder agreements, assign ownership of intellectual property to companies.
 
             \Owners License\  When work made for hire rules or an assignment agreement transfers ownership of intellectual property in software to a company, then the company, not the developer, has the legal right to license the software.
+
+        \Ensure Rights to License\
+
+            \\  <Developer> guarantees that <Developer> has all the rights needed to license work in the <Software> as of the date of this agreement.
+
+            \\  <Developer> guarantees that <Developer> will not release or incorporate any work into the <Software> that <Developer> does not have the right to license.
 
         \Provide Assurance About Patents\  <Developer> guarantees that as of the date of this agreement, <Developer> is not aware of any patent that the <Software> infringes, or that <Company> would infringe by <Expected Use of the Software>, that is not covered by the <Public License>.
 

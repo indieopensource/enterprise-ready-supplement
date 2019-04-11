@@ -56,12 +56,6 @@ _Company_ agrees to pay all tax on fees under this agreement, except tax _Develo
 
 ## <a id="Developer's_Obligations"></a>Developer's Obligations
 
-### <a id="Ensure_Rights_to_License"></a>Ensure Rights to License
-
-1.  _Developer_ guarantees that _Developer_ has all the rights needed to license work in the _Software_ as of the date of this agreement.
-
-2.  _Developer_ guarantees that _Developer_ will not release or incorporate any work into the _Software_ that _Developer_ does not have the right to license.
-
 ### <a id="Understand_Intellectual_Property_Basics"></a>Understand Intellectual Property Basics
 
 _Developer_ guarantees that _Developer_ is broadly aware that:
@@ -77,6 +71,12 @@ Common legal agreements, such as independent contractor, employee, and company f
 #### <a id="Owners_License"></a>Owners License
 
 When work made for hire rules or an assignment agreement transfers ownership of intellectual property in software to a company, then the company, not the developer, has the legal right to license the software.
+
+### <a id="Ensure_Rights_to_License"></a>Ensure Rights to License
+
+1.  _Developer_ guarantees that _Developer_ has all the rights needed to license work in the _Software_ as of the date of this agreement.
+
+2.  _Developer_ guarantees that _Developer_ will not release or incorporate any work into the _Software_ that _Developer_ does not have the right to license.
 
 ### <a id="Provide_Assurance_About_Patents"></a>Provide Assurance About Patents
 

@@ -60,17 +60,11 @@ _Company_ agrees to pay all tax on fees under this agreement, except tax _Develo
 
 _Developer_ guarantees that _Developer_ is broadly aware that:
 
-#### <a id="Work_Made_for_Hire"></a>Work Made for Hire
+1.  Legal "work made for hire" rules can make employers and clients, rather than developers, owners of intellectual property in software.
 
-Legal "work made for hire" rules can make employers and clients, rather than developers, owners of intellectual property in software.
+2.  Common legal agreements, such as independent contractor, employee, and company founder agreements, assign ownership of intellectual property to companies.
 
-#### <a id="Intellectual_Property_Assignments"></a>Intellectual Property Assignments
-
-Common legal agreements, such as independent contractor, employee, and company founder agreements, assign ownership of intellectual property to companies.
-
-#### <a id="Owners_License"></a>Owners License
-
-When work made for hire rules or an assignment agreement transfers ownership of intellectual property in software to a company, then the company, not the developer, has the legal right to license the software.
+3.  When work made for hire rules or an assignment agreement transfers ownership of intellectual property in software to a company, then the company, not the developer, has the legal right to license the software.
 
 ### <a id="Ensure_Rights_to_License"></a>Ensure Rights to License
 

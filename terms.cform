@@ -52,7 +52,7 @@
 
             \Owners License\  When work made for hire rules or an assignment agreement transfers ownership of intellectual property in software to a company, then the company, not the developer, has the legal right to license the software.
 
-        \Provide Assurance About Patents\  <Developer> guarantees that as of the date of this agreement, <Developer> is not aware of any patent that the <Software> infringes, or that <Company> would infringe by <Permitted Use of the Software>, that is not covered by the <Public License>.
+        \Provide Assurance About Patents\  <Developer> guarantees that as of the date of this agreement, <Developer> is not aware of any patent that the <Software> infringes, or that <Company> would infringe by <Expected Use of the Software>, that is not covered by the <Public License>.
 
         \Only Depend on Open Software\  <Developer> guarantees that any <Software Dependencies> are <Open Software> and generally available for <Company> to download, free of charge, from a <Public Software Repository>.  <Developer> does not agree to any service-level agreement or other specific guarantee about any <Public Software Repository>.
 
@@ -70,7 +70,7 @@
 
     \Accountability\
 
-        \Indemnification\  Subject to {Indemnification Process}, <Developer> agrees to give <Company> <Indemnification> for <Legal Claims> by others alleging that <Permitted Use of the Software> does any of these:
+        \Indemnification\  Subject to {Indemnification Process}, <Developer> agrees to give <Company> <Indemnification> for <Legal Claims> by others alleging that <Expected Use of the Software> does any of these:
 
         \\  infringes any copyright, trademark, or trade secret
 
@@ -144,7 +144,7 @@
 
         \\  ""Permission"" means prior <Notice> of consent.
 
-        \\  ""Permitted Use of the Software"" means <Company>'s use of the <Software>, other than <Use of the Software at Company's Own Risk>.
+        \\  ""Expected Use of the Software"" means <Company>'s use of the <Software>, other than <Use of the Software at Company's Own Risk>.
 
         \\  ""Public Software Repository"" means a website or Internet service that provides free-of-charge downloads of software.
 

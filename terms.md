@@ -80,7 +80,7 @@ When work made for hire rules or an assignment agreement transfers ownership of 
 
 ### <a id="Provide_Assurance_About_Patents"></a>Provide Assurance About Patents
 
-_Developer_ guarantees that as of the date of this agreement, _Developer_ is not aware of any patent that the _Software_ infringes, or that _Company_ would infringe by _Permitted Use of the Software_, that is not covered by the _Public License_.
+_Developer_ guarantees that as of the date of this agreement, _Developer_ is not aware of any patent that the _Software_ infringes, or that _Company_ would infringe by _Expected Use of the Software_, that is not covered by the _Public License_.
 
 ### <a id="Only_Depend_on_Open_Software"></a>Only Depend on Open Software
 
@@ -110,7 +110,7 @@ _Company_ may renew this agreement, for an additional period as long as the _Ter
 
 ### <a id="Indemnification"></a>Indemnification
 
-Subject to [Indemnification Process](#Indemnification_Process), _Developer_ agrees to give _Company_ _Indemnification_ for _Legal Claims_ by others alleging that _Permitted Use of the Software_ does any of these:
+Subject to [Indemnification Process](#Indemnification_Process), _Developer_ agrees to give _Company_ _Indemnification_ for _Legal Claims_ by others alleging that _Expected Use of the Software_ does any of these:
 
 ### (No Heading)
 
@@ -222,7 +222,7 @@ Both sides waive any objection to hearing any _Lawsuit_ in _Developer's Local Co
 
 9.  **Permission** means prior _Notice_ of consent.
 
-10.  **Permitted Use of the Software** means _Company_'s use of the _Software_, other than _Use of the Software at Company's Own Risk_.
+10.  **Expected Use of the Software** means _Company_'s use of the _Software_, other than _Use of the Software at Company's Own Risk_.
 
 11.  **Public Software Repository** means a website or Internet service that provides free-of-charge downloads of software.
 

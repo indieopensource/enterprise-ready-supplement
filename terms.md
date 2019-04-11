@@ -94,7 +94,7 @@ If the _Public License_ does not explicitly grant a patent license, then _Develo
 
 ### <a id="Forgive_Inadvertent_Public_License_Violations"></a>Forgive Inadvertent Public License Violations
 
-_Developer_ agrees that if _Company_ fails to comply with any condition or other rule of the _Public License_, _Company_ can keep its license by taking all practical steps to comply within 30 calendar days after receiving notice of the failure, from _Developer_ or anyone else.
+_Developer_ agrees that if _Company_ fails to comply with any condition or other rule of the _Public License_, _Company_ can keep its license by taking all practical steps to comply within 30 calendar days after receiving notice of the failure from _Developer_ or anyone else.
 
 ### <a id="Stand_Behind_Guarantees"></a>Stand Behind Guarantees
 

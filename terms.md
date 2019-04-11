@@ -8,7 +8,7 @@ This license fills the gaps between the terms that open software developers appl
 
 These terms, together with the cosigned **Proposal** referencing them, make up an agreement between the **Developer** selling the license and the **Company** buying the license.
 
-## <a id="Deal_Details"></a>Deal Details
+## <a id="Specifics"></a>Specifics
 
 1.  The _Proposal_ must identify:
 

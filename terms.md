@@ -6,7 +6,7 @@ This license fills the gaps between the terms that open software developers appl
 
 ## <a id="Agreement"></a>Agreement
 
-These terms, together with the cosigned **Proposal** referencing them, make up an agreement between the **Developer** selling the license and the **Company** buying the license.
+These terms, together with the cosigned **Proposal** referencing them, make up an agreement between **Developer** and **Company**.
 
 ## <a id="Specifics"></a>Specifics
 
@@ -18,15 +18,15 @@ These terms, together with the cosigned **Proposal** referencing them, make up a
 
     3.  the _Company_
 
-    4.  the **Software** the license covers
+    4.  the **Software** this agreement
 
-    5.  the **License Fee** for the license
+    5.  the **Fee** for this agreement
 
 2.  The _Proposal_ may identify:
 
-    1.  the **Payment Method** _Company_ will use to pay the _License Fee_, which by default is bank-to-bank transfer, such as FedWire, ACH, SEPA, or SWIFT, if possible, and otherwise a common electronic payment system, such as PayPal, Stripe, or Square Cash
+    1.  the **Payment Method** _Company_ will use to pay the _Fee_, which by default is bank-to-bank transfer, such as FedWire, ACH, SEPA, or SWIFT, if possible, and otherwise a common electronic payment system, such as PayPal, Stripe, or Square Cash
 
-    2.  the **Term** of the license, six calendar months by default
+    2.  the **Term** of this agreement, six calendar months by default
 
 ## <a id="Supplementary_Terms"></a>Supplementary Terms
 
@@ -36,7 +36,7 @@ These terms supplement the **Public License** that applies to the _Software_. Th
 
 ### <a id="Pay_Fees"></a>Pay Fees
 
-_Company_ agrees to pay the _License Fee_ via the _Payment Method_ within seven calendar days of entering this agreement.
+_Company_ agrees to pay the _Fee_ via the _Payment Method_ within seven calendar days of entering this agreement.
 
 ### <a id="Use_the_Agreed_Payment_Method"></a>Use the Agreed Payment Method
 
@@ -126,11 +126,11 @@ _Company_'s only legal remedy for _Legal Claims_ covered by _Indemnification_ wi
 
 ## <a id="Term"></a>Term
 
-This agreement starts when _Developer_ receives full payment of the _License Fee_, and continues for the _Term_.
+This agreement starts when _Developer_ receives full payment of the _Fee_, and continues for the _Term_.
 
 ## <a id="Renewal"></a>Renewal
 
-_Company_ may renew this agreement, for an additional period as long as the _Term_, by paying _Developer_ the _License Fee_ fee again during the two calendar months before the _Term_ would otherwise end. _Developer_ may stop _Company_ from renewing this agreement by giving _Notice_ any time before _Company_ pays an additional _License Fee_.
+_Company_ may renew this agreement, for an additional period as long as the _Term_, by paying _Developer_ the _Fee_ fee again during the two calendar months before the _Term_ would otherwise end. _Developer_ may stop _Company_ from renewing this agreement by giving _Notice_ any time before _Company_ pays an additional _Fee_.
 
 ## <a id="Liability"></a>Liability
 
@@ -142,7 +142,7 @@ With the exception of its obligations in [Developer's Obligations](#Developer's_
 
 #### <a id="Damages_Limit"></a>Damages Limit
 
-Subject to [Damages Limit Exceptions](#Damages_Limit_Exceptions), _Developer_'s total liability for breach of this agreement will not exceed the amount of the _License Fee_. This limit applies even if _Developer_ is advised that _Company_ may suffer damages, and even if _Company_ paid nothing at all.
+Subject to [Damages Limit Exceptions](#Damages_Limit_Exceptions), _Developer_'s total liability for breach of this agreement will not exceed the amount of the _Fee_. This limit applies even if _Developer_ is advised that _Company_ may suffer damages, and even if _Company_ paid nothing at all.
 
 #### <a id="Damages_Limit_Exceptions"></a>Damages Limit Exceptions
 

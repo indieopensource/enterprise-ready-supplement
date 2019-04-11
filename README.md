@@ -8,7 +8,7 @@ This is a [flipped form](https://flippedform.com) in plain English.  If somethin
 
 ## Overview
 
-These license terms aim to bridge the gap between typical open software license terms and the terms large companies expect for software they rely on, without requiring the developer to perform any additional services.  We can put those gaps in two categories:
+These terms bridge the gap between typical open software license terms and the terms large companies expect for software they rely on, without requiring the developer to perform any additional services.  We can put those gaps in two categories:
 
 ### Guarantees
 

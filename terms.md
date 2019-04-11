@@ -58,7 +58,7 @@ _Company_ agrees to pay all tax on fees under this agreement, except tax _Develo
 
 ### <a id="Understand_Intellectual_Property_Basics"></a>Understand Intellectual Property Basics
 
-_Developer_ guarantees that _Developer_ is broadly aware that:
+_Developer_ guarantees that _Developer_ is aware that:
 
 1.  Legal "work made for hire" rules can make employers and clients, rather than developers, owners of intellectual property in software.
 

@@ -1,6 +1,6 @@
 # indieopensource.com Enterprise Ready Open Software License
 
-an open form contract for enterprise-ready supplemental license terms for open software
+an open form contract supplementing open software licenses with enterprise-ready terms
 
 Download the most recent release from [GitHub](https://github.com/indieopensource/enterprise-ready-license/releases), or read the [current development version of the terms in Markdown format](https://github.com/indieopensource/enterprise-ready-license/blob/master/terms.md).
 

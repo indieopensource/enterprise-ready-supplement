@@ -50,7 +50,7 @@ _Company_ agrees to increase the amount of every payment to _Developer_ so that 
 
 _Company_ agrees to pay all tax on fees under this agreement, except tax _Developer_ owes on income.
 
-### <a id="Survival"></a>Survival
+### <a id="Term_of_Company's_Obligations"></a>Term of Company's Obligations
 
 [Company's Obligations](#Company's_Obligations) continues after this agreement ends.
 
@@ -89,6 +89,10 @@ _Developer_ guarantees that any _Software Dependencies_ are and will be _Open So
 ### <a id="Ensure_License_Compatibility"></a>Ensure License Compatibility
 
 _Developer_ guarantees that the license terms for _Software Dependencies_ and the _Public License_ are and will remain compatible, so that _Developer_ and others have permission to run, combine, and distribute the combination of _Software_ and its _Software Dependencies_.
+
+### <a id="Term_of_Company's_Obligations"></a>Term of Company's Obligations
+
+[Developer's Obligations](#Developer's_Obligations) continues until this agreement ends.
 
 ## <a id="Clear_Patent_License"></a>Clear Patent License
 

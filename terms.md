@@ -36,7 +36,7 @@ These terms supplement the **Public License** that applies to the _Software_. Th
 
 ### <a id="Pay_Fees"></a>Pay Fees
 
-_Company_ agrees to pay the _License Fee_ via the _Payment Method_ within seven calendar days.
+_Company_ agrees to pay the _License Fee_ via the _Payment Method_ within seven calendar days of entering this agreement.
 
 ### <a id="Use_the_Agreed_Payment_Method"></a>Use the Agreed Payment Method
 

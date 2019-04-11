@@ -192,7 +192,7 @@ Each side may assign all its rights, licenses, and obligations under this agreem
 
 #### <a id="Courts"></a>Courts
 
-**Developer's Local Courts** means the national and any national subdivision courts with jurisdiction at _Developer's Address_.
+**Developer's Local Courts** means the national and any national-subdivision courts with jurisdiction at _Developer's Address_.
 
 #### <a id="Forum"></a>Forum
 

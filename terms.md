@@ -1,4 +1,4 @@
-# Enterprise Ready Open Software Supplement
+# Enterprise Ready Open Software License Supplement
 
 ## <a id="Purpose"></a>Purpose
 

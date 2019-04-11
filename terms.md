@@ -136,7 +136,7 @@ With the exception of _Developer_'s obligations in [Developer's Obligations](#De
 
 #### <a id="Damages_Limit"></a>Damages Limit
 
-Subject to [Damages Limit Exceptions](#Damages_Limit_Exceptions), _Developer_'s total liability for breach of this agreement will not exceed the amount of the _Fee_. This limit applies even if _Developer_ is advised that _Company_ may suffer damages, and even if _Company_ paid nothing at all.
+Subject to [Damages Limit Exceptions](#Damages_Limit_Exceptions), _Developer_'s total liability for breach of this agreement will not exceed the amount of the last _Fee_ that _Company_ paid _Developer_ under this agreement. This limit applies even if _Developer_ is advised that _Company_ may suffer damages, and even if _Company_ paid nothing at all.
 
 #### <a id="Damages_Limit_Exceptions"></a>Damages Limit Exceptions
 

@@ -66,11 +66,15 @@
 
         \Stand Behind Guarantees\
 
-            \Indemnification\  Subject to {Indemnification Process}, <Developer> agrees to give <Company> <Indemnification> for <Legal Claims> by others alleging that <Expected Use of the Software> does any of these:
+            \Indemnification\  Subject to {Indemnification Process}, <Developer> agrees to give <Company> <Indemnification> for <Legal Claims> by others:
 
-                \\  infringes any copyright, trademark, or trade secret
+                \\  resulting from breach of {Ensure Rights to License}
 
-                \\  infringes any patent covered by <Developer>'s patent guarantee under {Provide Assurance About Patents}
+                \\  resulting from breach of {Only Depend on Open Software}
+
+                \\  resulting from breach of {Ensure License Compatibility}
+
+                \\  infringes any patent covered by <Developer>'s guarantee under {Provide Assurance About Patents}
 
             \Only Recourse\  <Company>'s only legal remedy for <Legal Claims> covered by <Indemnification> will be <Indemnification>.
 

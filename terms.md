@@ -102,11 +102,15 @@ _Developer_ agrees that if _Company_ fails to comply with any condition or other
 
 #### <a id="Indemnification"></a>Indemnification
 
-Subject to [Indemnification Process](#Indemnification_Process), _Developer_ agrees to give _Company_ _Indemnification_ for _Legal Claims_ by others alleging that _Expected Use of the Software_ does any of these:
+Subject to [Indemnification Process](#Indemnification_Process), _Developer_ agrees to give _Company_ _Indemnification_ for _Legal Claims_ by others:
 
-1.  infringes any copyright, trademark, or trade secret
+1.  resulting from breach of [Ensure Rights to License](#Ensure_Rights_to_License)
 
-2.  infringes any patent covered by _Developer_'s patent guarantee under [Provide Assurance About Patents](#Provide_Assurance_About_Patents)
+2.  resulting from breach of [Only Depend on Open Software](#Only_Depend_on_Open_Software)
+
+3.  resulting from breach of [Ensure License Compatibility](#Ensure_License_Compatibility)
+
+4.  infringes any patent covered by _Developer_'s guarantee under [Provide Assurance About Patents](#Provide_Assurance_About_Patents)
 
 #### <a id="Only_Recourse"></a>Only Recourse
 

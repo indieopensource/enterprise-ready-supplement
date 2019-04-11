@@ -72,6 +72,8 @@ _Developer_ guarantees that _Developer_ is aware that:
 
 2.  _Developer_ guarantees that _Developer_ will not incorporate any work into the _Software_ that _Developer_ does not have the right to make available under the _Public License_.
 
+3.  _Developer_ agrees to collect published records showing that other contributors to the _Software_ license their contributions on terms that permit making their work available under the _Public License_ as part of the _Software_.
+
 ### <a id="Provide_Assurance_About_Patents"></a>Provide Assurance About Patents
 
 _Developer_ guarantees that as of the date of this agreement, _Developer_ is not aware of any patent not covered by the _Public License_ that the _Software_ infringes, or that _Company_ would infringe by _Expected Use of the Software_.

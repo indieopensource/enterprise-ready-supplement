@@ -48,8 +48,6 @@
 
         \Ensure License Compatibility\  <Developer> guarantees that the license terms for <Software Dependencies> and the <Public License> are compatible, so that <Developer> and others have permission to run, combine, and distribute the combination of <Software> and its <Software Dependencies>.
 
-        \Give Notice of Infringement Claims\  <Developer> agrees to give <Company> prompt <Notice> of any <Infringement Claim> that <Developer> becomes aware of.
-
     # This section is based on the "Patent" section of the Blue Oak Model License 1.0.0.
     \Clear Patent License\  If the <Public License> does not explicitly grant a patent license, then <Developer> licenses <Company> to do everything with the software that would otherwise infringe any patent claims <Developer> can license, or becomes able to license.
 
@@ -123,8 +121,6 @@
         \\  ""Documentation"" means documentation for the <Software> written or released by <Developer>.
 
         \\  ""Indemnification"" means indemnifying and holding harmless for all liability, expenses, damages, and costs.
-
-        \\  ""Infringement Claim"" means a court order against anyone's use of the <Software> based on a claim that it infringes any <Intellectual Property Right> or breaks any law, or a threat of that kind of claim that <Developer> believes credible.
 
         \\  ""Intellectual Property Right"" means any patent, copyright, trademark, or trade secret right, or any other legal right typically referred to as an intellectual property right.
 

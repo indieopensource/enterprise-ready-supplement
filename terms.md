@@ -2,7 +2,7 @@
 
 ## <a id="Purpose"></a>Purpose
 
-This license fills the gaps between the terms that open source software developers apply to their work and the terms that companies demand for software they depend on. Open source software developers can sell supplementary licenses to companies on these terms to fill those gaps.
+This license fills the gaps between the terms that open source software developers apply to their work and the terms that companies expect for software they depend on. Open source software developers can sell supplementary licenses to companies on these terms to fill those gaps.
 
 ## <a id="Agreement"></a>Agreement
 
@@ -77,10 +77,6 @@ _Developer_ guarantees that any _Software Dependencies_ are _Open Software_ and 
 ### <a id="Ensure_License_Compatibility"></a>Ensure License Compatibility
 
 _Developer_ guarantees that the license terms for _Software Dependencies_ and the _Public License_ are compatible, so that _Developer_ and others have permission to run, combine, and distribute the combination of _Software_ and its _Software Dependencies_.
-
-### <a id="Give_Notice_of_Infringement_Claims"></a>Give Notice of Infringement Claims
-
-_Developer_ agrees to give _Company_ prompt _Notice_ of any _Infringement Claim_ that _Developer_ becomes aware of.
 
 ## <a id="Clear_Patent_License"></a>Clear Patent License
 
@@ -202,27 +198,25 @@ Both sides waive any objection to hearing any _Lawsuit_ in _Developer's Local Co
 
 3.  **Indemnification** means indemnifying and holding harmless for all liability, expenses, damages, and costs.
 
-4.  **Infringement Claim** means a court order against anyone's use of the _Software_ based on a claim that it infringes any _Intellectual Property Right_ or breaks any law, or a threat of that kind of claim that _Developer_ believes credible.
+4.  **Intellectual Property Right** means any patent, copyright, trademark, or trade secret right, or any other legal right typically referred to as an intellectual property right.
 
-5.  **Intellectual Property Right** means any patent, copyright, trademark, or trade secret right, or any other legal right typically referred to as an intellectual property right.
+5.  **Latest Version of the Software** means the latest version of the _Software_ that _Developer_ has released at any time these terms are applied.
 
-6.  **Latest Version of the Software** means the latest version of the _Software_ that _Developer_ has released at any time these terms are applied.
+6.  **Legal Claims** means claims, demands, lawsuits, and other legal actions.
 
-7.  **Legal Claims** means claims, demands, lawsuits, and other legal actions.
+7.  **Notice** means a written communication from one side to the other per [Notice Process](#Notice_Process).
 
-8.  **Notice** means a written communication from one side to the other per [Notice Process](#Notice_Process).
+8.  **Open Software** means software licensed to the public on the terms of a standardized form license certified by Blue Oak Council or approved by the Open Source Initiative.
 
-9.  **Open Software** means software licensed to the public on the terms of a standardized form license certified by Blue Oak Council or approved by the Open Source Initiative.
+9.  **Permission** means prior _Notice_ of consent.
 
-10.  **Permission** means prior _Notice_ of consent.
+10.  **Permitted Use of the Software** means _Company_'s use of the _Software_, other than _Use of the Software at Company's Own Risk_.
 
-11.  **Permitted Use of the Software** means _Company_'s use of the _Software_, other than _Use of the Software at Company's Own Risk_.
+11.  **Public Software Repository** means a website or Internet service that provides free-of-charge downloads of software.
 
-12.  **Public Software Repository** means a website or Internet service that provides free-of-charge downloads of software.
+12.  **Software Dependencies** means software from others that the _Software_ depends on, installs, configures, or links, directly or indirectly.
 
-13.  **Software Dependencies** means software from others that the _Software_ depends on, installs, configures, or links, directly or indirectly.
-
-14.  **Use of the Software at Company's Own Risk** means:
+13.  **Use of the Software at Company's Own Risk** means:
 
      1.  use of the _Software_ with changes, additions, or in combination with other software, computers, or data, in a way that infringes someone else's _Intellectual Property Right_ or breaks the law, if use of the _Software_ as provided, as described by any _Documentation_, would not
 

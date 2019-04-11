@@ -20,7 +20,7 @@
 
             \\  the ""Payment Method"" <Company> will use to pay the <Fee>, which by default is [default payment method]
 
-            \\  the ""Term"" of this agreement, [default term] by default
+            \\  the ""Term"" of this agreement, which by default is [default term]
 
     \Supplementary Terms\  These terms supplement the ""Public License"" that applies to the <Software>.  Though part of a single transaction, these terms and the <Public License> will be interpreted as entirely independent legal documents, so that <Developer> and <Company> can continue to rely on guidance for the <Public License> as a standardized form.
 

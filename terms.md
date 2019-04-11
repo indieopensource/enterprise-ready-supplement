@@ -94,11 +94,11 @@ _Developer_ guarantees that the license terms for _Software Dependencies_ and th
 
 [Developer's Obligations](#Developer's_Obligations) continues until this agreement ends.
 
-## <a id="Clear_Patent_License"></a>Clear Patent License
+### <a id="Clear_Patent_License"></a>Clear Patent License
 
 If the _Public License_ does not explicitly grant a patent license, then _Developer_ licenses _Company_ to do everything with the software that would otherwise infringe any patent claims _Developer_ can license, or becomes able to license.
 
-## <a id="Cure_Process_for_Public_License_Violations"></a>Cure Process for Public License Violations
+### <a id="Cure_Process_for_Public_License_Violations"></a>Cure Process for Public License Violations
 
 _Developer_ agrees that if _Company_ fails to comply with any condition or other rule of the _Public License_, _Company_ can keep its license by taking all practical steps to comply within 30 days after receiving notice of the failure, from _Developer_ or anyone else.
 

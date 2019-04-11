@@ -130,6 +130,8 @@
 
         \\  ""Documentation"" means documentation for the <Software> written or released by <Developer>.
 
+        \\  ""Expected Use of the Software"" means <Company>'s use of the <Software>, other than <Use of the Software at Company's Own Risk>.
+
         \\  ""Indemnification"" means indemnifying and holding harmless for all liability, expenses, damages, and costs.
 
         \\  ""Intellectual Property Right"" means any patent, copyright, trademark, or trade secret right, or any other legal right typically referred to as an intellectual property right.
@@ -143,8 +145,6 @@
         \\  ""Open Software"" means software licensed to the public on the terms of a standardized form license certified by Blue Oak Council or approved by the Open Source Initiative.
 
         \\  ""Permission"" means prior <Notice> of consent.
-
-        \\  ""Expected Use of the Software"" means <Company>'s use of the <Software>, other than <Use of the Software at Company's Own Risk>.
 
         \\  ""Public Software Repository"" means a website or Internet service that provides free-of-charge downloads of software.
 

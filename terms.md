@@ -208,21 +208,21 @@ Both sides waive any objection to hearing any _Lawsuit_ in _Developer's Local Co
 
 2.  **Documentation** means documentation for the _Software_ written or released by _Developer_.
 
-3.  **Indemnification** means indemnifying and holding harmless for all liability, expenses, damages, and costs.
+3.  **Expected Use of the Software** means _Company_'s use of the _Software_, other than _Use of the Software at Company's Own Risk_.
 
-4.  **Intellectual Property Right** means any patent, copyright, trademark, or trade secret right, or any other legal right typically referred to as an intellectual property right.
+4.  **Indemnification** means indemnifying and holding harmless for all liability, expenses, damages, and costs.
 
-5.  **Latest Version of the Software** means the latest version of the _Software_ that _Developer_ has released at any time these terms are applied.
+5.  **Intellectual Property Right** means any patent, copyright, trademark, or trade secret right, or any other legal right typically referred to as an intellectual property right.
 
-6.  **Legal Claims** means claims, demands, lawsuits, and other legal actions.
+6.  **Latest Version of the Software** means the latest version of the _Software_ that _Developer_ has released at any time these terms are applied.
 
-7.  **Notice** means a written communication from one side to the other per [Notice Process](#Notice_Process).
+7.  **Legal Claims** means claims, demands, lawsuits, and other legal actions.
 
-8.  **Open Software** means software licensed to the public on the terms of a standardized form license certified by Blue Oak Council or approved by the Open Source Initiative.
+8.  **Notice** means a written communication from one side to the other per [Notice Process](#Notice_Process).
 
-9.  **Permission** means prior _Notice_ of consent.
+9.  **Open Software** means software licensed to the public on the terms of a standardized form license certified by Blue Oak Council or approved by the Open Source Initiative.
 
-10.  **Expected Use of the Software** means _Company_'s use of the _Software_, other than _Use of the Software at Company's Own Risk_.
+10.  **Permission** means prior _Notice_ of consent.
 
 11.  **Public Software Repository** means a website or Internet service that provides free-of-charge downloads of software.
 

@@ -58,7 +58,9 @@ _Company_ agrees to pay all tax on fees under this agreement, except tax _Develo
 
 ### <a id="Ensure_Rights_to_License"></a>Ensure Rights to License
 
-_Developer_ guarantees that _Developer_ will not release or incorporate any work into the _Software_ that _Developer_ does not have the right to license
+1.  _Developer_ guarantees that _Developer_ has all the rights needed to license work in the _Software_ as of the date of this agreement.
+
+2.  _Developer_ guarantees that _Developer_ will not release or incorporate any work into the _Software_ that _Developer_ does not have the right to license.
 
 ### <a id="Understand_IP_Basics"></a>Understand IP Basics
 

@@ -108,7 +108,7 @@ Subject to [Indemnification Process](#Indemnification_Process), _Developer_ agre
 
 3.  resulting from breach of [Ensure License Compatibility](#Ensure_License_Compatibility)
 
-4.  infringes any patent covered by _Developer_'s guarantee under [Provide Assurance About Patents](#Provide_Assurance_About_Patents)
+4.  that the _Latest Version of the Software_ infringes any patent covered by _Developer_'s guarantee under [Provide Assurance About Patents](#Provide_Assurance_About_Patents)
 
 #### <a id="Only_Recourse"></a>Only Recourse
 

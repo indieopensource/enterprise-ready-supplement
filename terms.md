@@ -160,7 +160,7 @@ _Company_ agrees that to receive _Indemnification_ under this agreement, _Compan
 
 ### <a id="Governing_Law"></a>Governing Law
 
-The law of the jurisdiction of _Developer's Address_ will govern this agreement
+The law of the jurisdiction of _Developer's Address_ will govern this agreement.
 
 ### <a id="No_CISG"></a>No CISG
 

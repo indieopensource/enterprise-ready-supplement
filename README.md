@@ -2,9 +2,9 @@
 
 an open form contract supplementing open software licenses with enterprise-ready terms
 
-Download the most recent release from [GitHub](https://github.com/indieopensource/enterprise-ready-license/releases), or read the [current development version of the terms in Markdown format](https://github.com/indieopensource/enterprise-ready-license/blob/master/terms.md).
+Download the most recent release from [GitHub](https://github.com/indieopensource/enterprise-ready-supplement/releases), or read the [current development version of the terms in Markdown format](https://github.com/indieopensource/enterprise-ready-supplement/blob/master/terms.md).
 
-This is a [flipped form](https://flippedform.com) in plain English.  If something doesn't make sense to you, that's the form's fault, not yours.  Please [open an issue so we can fix it](https://github.com/indieopensource/enterprise-ready-license/issues/new).
+This is a [flipped form](https://flippedform.com) in plain English.  If something doesn't make sense to you, that's the form's fault, not yours.  Please [open an issue so we can fix it](https://github.com/indieopensource/enterprise-ready-supplement/issues/new).
 
 ## Overview
 

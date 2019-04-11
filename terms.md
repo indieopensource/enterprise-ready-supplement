@@ -98,6 +98,24 @@ If the _Public License_ does not explicitly grant a patent license, then _Develo
 
 _Developer_ agrees that if _Company_ fails to comply with any condition or other rule of the _Public License_, _Company_ can keep its license by taking all practical steps to comply within 30 calendar days after receiving notice of the failure, from _Developer_ or anyone else.
 
+### <a id="Accountability"></a>Accountability
+
+#### <a id="Indemnification"></a>Indemnification
+
+Subject to [Indemnification Process](#Indemnification_Process), _Developer_ agrees to give _Company_ _Indemnification_ for _Legal Claims_ by others alleging that _Expected Use of the Software_ does any of these:
+
+#### (No Heading)
+
+infringes any copyright, trademark, or trade secret
+
+#### (No Heading)
+
+infringes any patent covered by _Developer_'s patent guarantee under [Provide Assurance About Patents](#Provide_Assurance_About_Patents)
+
+#### <a id="Only_Recourse"></a>Only Recourse
+
+_Company_'s only legal remedy for _Legal Claims_ covered by _Indemnification_ will be _Indemnification_.
+
 ### <a id="Term_of_Developer's_Obligations"></a>Term of Developer's Obligations
 
 [Developer's Obligations](#Developer's_Obligations) continues until this agreement ends.
@@ -109,24 +127,6 @@ This agreement starts when _Developer_ receives full payment of the _License Fee
 ## <a id="Renewal"></a>Renewal
 
 _Company_ may renew this agreement, for an additional period as long as the _Term_, by paying _Developer_ the _License Fee_ fee again during the two calendar months before the _Term_ would otherwise end. _Developer_ may stop _Company_ from renewing this agreement by giving _Notice_ any time before _Company_ pays an additional _License Fee_.
-
-## <a id="Accountability"></a>Accountability
-
-### <a id="Indemnification"></a>Indemnification
-
-Subject to [Indemnification Process](#Indemnification_Process), _Developer_ agrees to give _Company_ _Indemnification_ for _Legal Claims_ by others alleging that _Expected Use of the Software_ does any of these:
-
-### (No Heading)
-
-infringes any copyright, trademark, or trade secret
-
-### (No Heading)
-
-infringes any patent covered by _Developer_'s patent guarantee under [Provide Assurance About Patents](#Provide_Assurance_About_Patents)
-
-### <a id="Only_Recourse"></a>Only Recourse
-
-_Company_'s only legal remedy for _Legal Claims_ covered by _Indemnification_ will be _Indemnification_.
 
 ## <a id="Liability"></a>Liability
 

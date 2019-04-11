@@ -64,21 +64,21 @@
         # This section based on the "Excuse" section of the Blue Oak Model License 1.0.0.
         \Cure Process for Public License Violations\  <Developer> agrees that if <Company> fails to comply with any condition or other rule of the <Public License>, <Company> can keep its license by taking all practical steps to comply within 30 calendar days after receiving notice of the failure, from <Developer> or anyone else.
 
+        \Accountability\
+
+            \Indemnification\  Subject to {Indemnification Process}, <Developer> agrees to give <Company> <Indemnification> for <Legal Claims> by others alleging that <Expected Use of the Software> does any of these:
+
+            \\  infringes any copyright, trademark, or trade secret
+
+            \\  infringes any patent covered by <Developer>'s patent guarantee under {Provide Assurance About Patents}
+
+            \Only Recourse\  <Company>'s only legal remedy for <Legal Claims> covered by <Indemnification> will be <Indemnification>.
+
         \Term of Developer's Obligations\  {Developer's Obligations} continues until this agreement ends.
 
     \Term\  This agreement starts when <Developer> receives full payment of the <License Fee>, and continues for the <Term>.
 
     \Renewal\  <Company> may renew this agreement, for an additional period as long as the <Term>, by paying <Developer> the <License Fee> fee again during the [renewal payment period] before the <Term> would otherwise end.  <Developer> may stop <Company> from renewing this agreement by giving <Notice> any time before <Company> pays an additional <License Fee>.
-
-    \Accountability\
-
-        \Indemnification\  Subject to {Indemnification Process}, <Developer> agrees to give <Company> <Indemnification> for <Legal Claims> by others alleging that <Expected Use of the Software> does any of these:
-
-        \\  infringes any copyright, trademark, or trade secret
-
-        \\  infringes any patent covered by <Developer>'s patent guarantee under {Provide Assurance About Patents}
-
-        \Only Recourse\  <Company>'s only legal remedy for <Legal Claims> covered by <Indemnification> will be <Indemnification>.
 
     \Liability\
 

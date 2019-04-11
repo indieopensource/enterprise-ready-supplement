@@ -58,7 +58,7 @@
 
             \\  <Developer> guarantees that any <Software Dependencies> are and will be <Open Software> generally available for <Company> to download, free of charge, from a <Public Software Repository>.
 
-            \\  <Company> agrees that <Developer> may rely on public statements by developers of software, copies of and references to specific public licenses in "README", "LICENSE", source code, and similar files, and licensing metadata in "package.json" and similar, standardized metadata files, to determine whether <Software Dependencies> are <Open Software>.
+            \\  <Company> agrees that <Developer> may rely on copies of and references to specific public licenses in "README", "LICENSE", source code, and similar files, and licensing metadata in "package.json" and similar, standardized metadata files, to determine whether <Software Dependencies> are <Open Software>.
 
             \\  <Developer> does not agree to any service-level agreement or other specific guarantee about any <Public Software Repository>.
 

@@ -74,7 +74,7 @@ _Developer_ guarantees that _Developer_ is aware that:
 
 ### <a id="Provide_Assurance_About_Patents"></a>Provide Assurance About Patents
 
-_Developer_ guarantees that as of the date of this agreement, _Developer_ is not aware of any patent that the _Software_ infringes, or that _Company_ would infringe by _Expected Use of the Software_, that is not covered by the _Public License_.
+_Developer_ guarantees that as of the date of this agreement, _Developer_ is not aware of any patent not covered by the _Public License_ that the _Software_ infringes, or that _Company_ would infringe by _Expected Use of the Software_.
 
 ### <a id="Only_Depend_on_Open_Software"></a>Only Depend on Open Software
 

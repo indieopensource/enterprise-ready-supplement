@@ -44,7 +44,7 @@ _Company_ agrees to pay all fees under this agreement via the _Payment Method_.
 
 ### <a id="Cover_Payment_Method_Expenses"></a>Cover Payment Method Expenses
 
-_Company_ agrees to increase the amount of every payment to _Developer_ so that _Developer_ receives the full amount owed, net of any fees for use of the _Payment Method_.
+_Company_ agrees to increase the amount of each payment to _Developer_ so that _Developer_ receives the full amount owed, net of any fees for use of the _Payment Method_.
 
 ### <a id="Pay_Tax"></a>Pay Tax
 

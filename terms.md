@@ -68,9 +68,9 @@ _Developer_ guarantees that _Developer_ is aware that:
 
 ### <a id="Ensure_Rights_to_License"></a>Ensure Rights to License
 
-1.  _Developer_ guarantees that _Developer_ has all the rights needed to license work in the _Software_ as of the date of this agreement.
+1.  _Developer_ guarantees that _Developer_ has all the rights needed to make the _Software_ as it exists on the date of this agreement available under the _Public License_.
 
-2.  _Developer_ guarantees that _Developer_ will not release or incorporate any work into the _Software_ that _Developer_ does not have the right to license.
+2.  _Developer_ guarantees that _Developer_ will not incorporate any work into the _Software_ that _Developer_ does not have the right to make available under the _Public License_.
 
 ### <a id="Provide_Assurance_About_Patents"></a>Provide Assurance About Patents
 

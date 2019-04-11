@@ -218,7 +218,7 @@ Both sides consent to the exclusive jurisdiction of _Developer's Local Courts_. 
 
 5.  **Intellectual Property Right** means any patent, copyright, trademark, or trade secret right, or any other legal right typically referred to as an intellectual property right.
 
-6.  **Latest Version of the Software** means the latest version of the _Software_ that _Developer_ has released at any time these terms are applied.
+6.  **Latest Version of the Software** means the latest version of the _Software_ that _Developer_ has released.
 
 7.  **Legal Claims** means claims, demands, lawsuits, and other legal actions.
 

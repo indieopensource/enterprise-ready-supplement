@@ -94,7 +94,7 @@ _Developer_ guarantees that as of the date of this agreement, _Developer_ is not
 
 _Developer_ guarantees that the license terms for _Software Dependencies_ and the _Public License_ are and will remain compatible, so that _Developer_ and others have permission to run, combine, and distribute the combination of _Software_ and its _Software Dependencies_.
 
-### <a id="Explicit_Patent_License"></a>Explicit Patent License
+### <a id="Make_Patent_License_Explicit"></a>Make Patent License Explicit
 
 If the _Public License_ does not explicitly grant a patent license, then _Developer_ licenses _Company_ to do everything with the software that would otherwise infringe any patent claims _Developer_ can license, or becomes able to license.
 

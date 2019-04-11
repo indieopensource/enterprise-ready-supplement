@@ -2,7 +2,7 @@
 
 ## <a id="Purpose"></a>Purpose
 
-This license fills the gaps between the terms that open source software developers apply to their work and the terms that companies expect for software they depend on. Open source software developers can sell supplementary licenses to companies on these terms to fill those gaps.
+This license fills the gaps between the terms that open software developers apply to their work and the terms that companies expect for software they depend on. Open software developers can sell supplementary licenses to companies on these terms to fill those gaps.
 
 ## <a id="Agreement"></a>Agreement
 

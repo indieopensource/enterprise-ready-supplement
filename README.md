@@ -14,6 +14,8 @@ These license terms aim to bridge the gap between typical open software license 
 
 - The developer has the rights to license the software.
 
+- The developer will maintain public contributor licensing records.
+
 - The software's dependencies are all open software.
 
 - There are no license compatibility issues.

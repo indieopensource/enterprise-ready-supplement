@@ -108,7 +108,7 @@ This agreement starts when _Developer_ receives full payment of the _License Fee
 
 ## <a id="Renewal"></a>Renewal
 
-_Company_ may renew this agreement, for an additional period as long as the _Term_, by paying _Developer_ the _License Fee_ fee again during the two calendar months before the _Term_ would otherwise end.
+_Company_ may renew this agreement, for an additional period as long as the _Term_, by paying _Developer_ the _License Fee_ fee again during the two calendar months before the _Term_ would otherwise end. _Developer_ may stop _Company_ from renewing this agreement by giving _Notice_ any time before _Company_ pays an additional _License Fee_.
 
 ## <a id="Accountability"></a>Accountability
 

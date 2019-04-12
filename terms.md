@@ -18,7 +18,7 @@ These terms, together with the cosigned **Proposal** referencing them, make up a
 
     3.  the _Company_
 
-    4.  the **Software** this agreement
+    4.  the **Software** this agreement covers
 
     5.  the **Fee** for this agreement
 

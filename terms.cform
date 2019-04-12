@@ -146,6 +146,8 @@
 
         \\  ""Developer's Address"" means the address <Developer> gives along with their signature to the <Proposal>.
 
+        \\  ""Dependencies"" means software from others that the <Software> depends on, installs, configures, or links, directly or indirectly.
+
         \\  ""Documentation"" means documentation for the <Software> written or released by <Developer>.
 
         \\  ""Expected Use of the Software"" means <Company>'s use of the <Software>, other than <Use of the Software at Company's Own Risk>.
@@ -165,8 +167,6 @@
         \\  ""Permission"" means prior <Notice> of consent.
 
         \\  ""Public Software Repository"" means a website or Internet service that provides free-of-charge downloads of software.
-
-        \\  ""Dependencies"" means software from others that the <Software> depends on, installs, configures, or links, directly or indirectly.
 
         \\  ""Use of the Software at Company's Own Risk"" means:
 

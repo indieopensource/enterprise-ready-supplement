@@ -222,27 +222,27 @@ Both sides consent to the exclusive jurisdiction of _Developer's Local Courts_. 
 
 1.  **Developer's Address** means the address _Developer_ gives along with their signature to the _Proposal_.
 
-2.  **Documentation** means documentation for the _Software_ written or released by _Developer_.
+2.  **Dependencies** means software from others that the _Software_ depends on, installs, configures, or links, directly or indirectly.
 
-3.  **Expected Use of the Software** means _Company_'s use of the _Software_, other than _Use of the Software at Company's Own Risk_.
+3.  **Documentation** means documentation for the _Software_ written or released by _Developer_.
 
-4.  **Indemnification** means indemnifying and holding harmless for all liability, expenses, damages, and costs.
+4.  **Expected Use of the Software** means _Company_'s use of the _Software_, other than _Use of the Software at Company's Own Risk_.
 
-5.  **Intellectual Property Right** means any patent, copyright, trademark, or trade secret right, or any other legal right typically referred to as an intellectual property right.
+5.  **Indemnification** means indemnifying and holding harmless for all liability, expenses, damages, and costs.
 
-6.  **Latest Version of the Software** means the latest version of the _Software_ that _Developer_ has released.
+6.  **Intellectual Property Right** means any patent, copyright, trademark, or trade secret right, or any other legal right typically referred to as an intellectual property right.
 
-7.  **Legal Claims** means claims, demands, lawsuits, and other legal actions.
+7.  **Latest Version of the Software** means the latest version of the _Software_ that _Developer_ has released.
 
-8.  **Notice** means a written communication from one side to the other under [Notice Process](#Notice_Process).
+8.  **Legal Claims** means claims, demands, lawsuits, and other legal actions.
 
-9.  **Open Software** means software licensed to the public on the terms of a standardized form license certified by Blue Oak Council or approved by the Open Source Initiative.
+9.  **Notice** means a written communication from one side to the other under [Notice Process](#Notice_Process).
 
-10.  **Permission** means prior _Notice_ of consent.
+10.  **Open Software** means software licensed to the public on the terms of a standardized form license certified by Blue Oak Council or approved by the Open Source Initiative.
 
-11.  **Public Software Repository** means a website or Internet service that provides free-of-charge downloads of software.
+11.  **Permission** means prior _Notice_ of consent.
 
-12.  **Dependencies** means software from others that the _Software_ depends on, installs, configures, or links, directly or indirectly.
+12.  **Public Software Repository** means a website or Internet service that provides free-of-charge downloads of software.
 
 13.  **Use of the Software at Company's Own Risk** means:
 

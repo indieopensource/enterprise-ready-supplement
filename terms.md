@@ -232,7 +232,7 @@ Both sides consent to the exclusive jurisdiction of _Developer's Local Courts_. 
 
 6.  **Intellectual Property Right** means any patent, copyright, trademark, or trade secret right, or any other legal right typically referred to as an intellectual property right.
 
-7.  **Latest Version of the Software** means the latest version of the _Software_ that _Developer_ has released. Any time _Developer_ releases a new version of the _Software_ during the term of this agreement, that new version becomes the _Latest Version of the Software_.
+7.  **Latest Version of the Software** means the latest version of the _Software_ that _Developer_ has released any "alpha", "beta", "prerelease", or similar version notation. Any time _Developer_ releases a new version of the _Software_ during the term of this agreement, that new version becomes the _Latest Version of the Software_.
 
 8.  **Legal Claims** means claims, demands, lawsuits, and other legal actions.
 

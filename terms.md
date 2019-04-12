@@ -238,7 +238,7 @@ Both sides consent to the exclusive jurisdiction of _Developer's Local Courts_. 
 
 9.  **Notice** means a written communication from one side to the other under [Notice Process](#Notice_Process).
 
-10.  **Open Work** means software licensed to the public on the terms of a standardized form license certified by Blue Oak Council or approved by the Open Source Initiative.
+10.  **Open Work** means software licensed to the public on the terms of a standardized form license certified by Blue Oak Council or approved by the Open Source Initiative, and content or data licensed to the public on the terms of an Attribution or Attribution-ShareAlike license published by Creative Commons.
 
 11.  **Permission** means prior _Notice_ of consent.
 

@@ -26,6 +26,8 @@ These terms bridge the gap between typical open software license terms and the t
 
 - There are no license compatibility issues.
 
+- There is and won't be any malware in the software.
+
 - The developer isn't aware of any patent issues.
 
 - The developer is aware of some basic intellectual property law traps, like work made for hire and intellectual property assignments.

@@ -70,19 +70,19 @@ _Developer_ guarantees that _Developer_ is aware that:
 
 #### <a id="Rights_for_Current_Software"></a>Rights for Current Software
 
-_Developer_ guarantees that _Developer_ has all the rights needed to make the _Software_ as it exists on the date of this agreement available under the _Public License_.
+_Developer_ guarantees that _Developer_ has all the rights needed to make the _Latest Version of the Software_ available under the _Public License_.
 
 #### <a id="Rights_for_Future_Software"></a>Rights for Future Software
 
-_Developer_ guarantees that _Developer_ will not incorporate any work into the _Software_ that _Developer_ does not have the right to make available under the _Public License_.
+_Developer_ guarantees that _Developer_ will not incorporate any work into the _Latest Version of the Software_ that _Developer_ does not have the right to make available under the _Public License_.
 
 #### <a id="Contribution_Licensing_Records"></a>Contribution Licensing Records
 
-_Developer_ agrees to collect published records showing that other contributors to the _Software_ license their contributions on terms that permit making their work available under the _Public License_ as part of the _Software_.
+_Developer_ agrees to collect published records showing that other contributors to the _Latest Version of the Software_ license their contributions on terms that permit making their work available under the _Public License_ as part of the _Latest Version of the Software_.
 
 ### <a id="Don't_Hide_Patent_Problems"></a>Don't Hide Patent Problems
 
-_Developer_ guarantees that as of the date of this agreement, _Developer_ is not aware of any patent not covered by the _Public License_ that the _Software_ infringes, or that _Company_ would infringe by _Expected Use of the Software_.
+_Developer_ guarantees that as of the date of this agreement, _Developer_ is not aware of any patent not covered by the _Public License_ that the _Latest Version of the Software_ infringes, or that _Company_ would infringe by _Expected Use of the Software_.
 
 ### <a id="Only_Depend_on_Open_Software"></a>Only Depend on Open Software
 
@@ -102,7 +102,7 @@ _Developer_ guarantees that the _Software_ does not and will not contain compute
 
 ### <a id="Make_Patent_Permission_Explicit"></a>Make Patent Permission Explicit
 
-If the _Public License_ does not explicitly grant a patent license, then _Developer_ licenses _Company_ to do everything with the software that would otherwise infringe any patent claims _Developer_ can license, or becomes able to license.
+If the _Public License_ does not explicitly grant a patent license, then _Developer_ licenses _Company_ to do everything with the _Software_ that would otherwise infringe any patent claims _Developer_ can license, or becomes able to license.
 
 ### <a id="Forgive_Inadvertent_Public_License_Violations"></a>Forgive Inadvertent Public License Violations
 

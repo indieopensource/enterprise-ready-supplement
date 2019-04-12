@@ -48,13 +48,13 @@
 
         \Secure Rights to License the Software\
 
-            \Rights for Current Software\  <Developer> guarantees that <Developer> has all the rights needed to make the <Software> as it exists on the date of this agreement available under the <Public License>.
+            \Rights for Current Software\  <Developer> guarantees that <Developer> has all the rights needed to make the <Latest Version of the Software> available under the <Public License>.
 
-            \Rights for Future Software\  <Developer> guarantees that <Developer> will not incorporate any work into the <Software> that <Developer> does not have the right to make available under the <Public License>.
+            \Rights for Future Software\  <Developer> guarantees that <Developer> will not incorporate any work into the <Latest Version of the Software> that <Developer> does not have the right to make available under the <Public License>.
 
-            \Contribution Licensing Records\  <Developer> agrees to collect published records showing that other contributors to the <Software> license their contributions on terms that permit making their work available under the <Public License> as part of the <Software>.
+            \Contribution Licensing Records\  <Developer> agrees to collect published records showing that other contributors to the <Latest Version of the Software> license their contributions on terms that permit making their work available under the <Public License> as part of the <Latest Version of the Software>.
 
-        \Don't Hide Patent Problems\  <Developer> guarantees that as of the date of this agreement, <Developer> is not aware of any patent not covered by the <Public License> that the <Software> infringes, or that <Company> would infringe by <Expected Use of the Software>.
+        \Don't Hide Patent Problems\  <Developer> guarantees that as of the date of this agreement, <Developer> is not aware of any patent not covered by the <Public License> that the <Latest Version of the Software> infringes, or that <Company> would infringe by <Expected Use of the Software>.
 
         \Only Depend on Open Software\
 
@@ -69,7 +69,7 @@
         \Keep Malicious Code Out of the Software\  <Developer> guarantees that the <Software> does not and will not contain computer viruses, Trojans, worms, or other malicious code.
 
         # This section is based on the "Patent" section of the Blue Oak Model License 1.0.0.
-        \Make Patent Permission Explicit\  If the <Public License> does not explicitly grant a patent license, then <Developer> licenses <Company> to do everything with the software that would otherwise infringe any patent claims <Developer> can license, or becomes able to license.
+        \Make Patent Permission Explicit\  If the <Public License> does not explicitly grant a patent license, then <Developer> licenses <Company> to do everything with the <Software> that would otherwise infringe any patent claims <Developer> can license, or becomes able to license.
 
         # This section based on the "Excuse" section of the Blue Oak Model License 1.0.0.
         \Forgive Inadvertent Public License Violations\  <Developer> agrees that if <Company> fails to comply with any condition or other rule of the <Public License>, <Company> can keep its license by taking all practical steps to comply within 30 calendar days after receiving notice of the failure from <Developer> or anyone else.

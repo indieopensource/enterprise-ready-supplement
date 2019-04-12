@@ -62,7 +62,7 @@
 
             \\  <Company> agrees that <Developer> may rely on copies of and references to specific public licenses in "README", "LICENSE", source code, and similar files, and licensing metadata in "package.json" and similar, standardized metadata files, to determine whether <Dependencies> are <Open Work>.
 
-            \\  <Developer> does not agree to any service-level agreement or other specific guarantee about any <Public Software Repository>.
+            \\  <Developer> does not make any service-level agreement or other specific guarantee about any <Public Software Repository>.
 
         \Avoid License Compatibility Problems\  <Developer> guarantees that the license terms for <Dependencies> and the <Public License> are and will remain collectively compatible, so that <Developer> and others have permission to run, combine, and distribute the combination of <Software> and its <Dependencies>.
 

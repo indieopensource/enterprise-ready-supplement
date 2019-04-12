@@ -90,7 +90,7 @@ _Developer_ guarantees that as of the date of this agreement, _Developer_ is not
 
 2.  _Company_ agrees that _Developer_ may rely on copies of and references to specific public licenses in "README", "LICENSE", source code, and similar files, and licensing metadata in "package.json" and similar, standardized metadata files, to determine whether _Dependencies_ are _Open Work_.
 
-3.  _Developer_ does not agree to any service-level agreement or other specific guarantee about any _Public Software Repository_.
+3.  _Developer_ does not make any service-level agreement or other specific guarantee about any _Public Software Repository_.
 
 ### <a id="Avoid_License_Compatibility_Problems"></a>Avoid License Compatibility Problems
 

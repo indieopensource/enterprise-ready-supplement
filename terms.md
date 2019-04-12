@@ -38,15 +38,15 @@ These terms supplement the **Public License** that applies to the _Software_. Th
 
 _Company_ agrees to pay the _Fee_ via the _Payment Method_ within seven calendar days of entering this agreement.
 
-### <a id="Use_the_Payment_Method"></a>Use the Payment Method
+### <a id="Use_the_Agreed_Payment_Method"></a>Use the Agreed Payment Method
 
 _Company_ agrees to pay all fees under this agreement via the _Payment Method_.
 
-### <a id="Cover_Payment_Method_Expenses"></a>Cover Payment Method Expenses
+### <a id="Cover_Payment_Method_Fees"></a>Cover Payment Method Fees
 
 _Company_ agrees to increase the amount of each payment to _Developer_ so that _Developer_ receives the full amount owed, net of any fees for use of the _Payment Method_.
 
-### <a id="Pay_Tax"></a>Pay Tax
+### <a id="Pay_Taxes_on_Fees"></a>Pay Taxes on Fees
 
 _Company_ agrees to pay all tax on fees under this agreement, except tax _Developer_ owes on income.
 
@@ -66,7 +66,7 @@ _Developer_ guarantees that _Developer_ is aware that:
 
 3.  When a work made for hire rule or assignment agreement transfers ownership of intellectual property in software to a company, then the company, not the developer, has the legal right to license the software.
 
-### <a id="Ensure_Rights_to_License"></a>Ensure Rights to License
+### <a id="Secure_Rights_to_License_the_Software"></a>Secure Rights to License the Software
 
 #### <a id="Rights_for_Current_Software"></a>Rights for Current Software
 
@@ -80,7 +80,7 @@ _Developer_ guarantees that _Developer_ will not incorporate any work into the _
 
 _Developer_ agrees to collect published records showing that other contributors to the _Software_ license their contributions on terms that permit making their work available under the _Public License_ as part of the _Software_.
 
-### <a id="Provide_Assurance_About_Patents"></a>Provide Assurance About Patents
+### <a id="Don't_Hide_Patent_Problems"></a>Don't Hide Patent Problems
 
 _Developer_ guarantees that as of the date of this agreement, _Developer_ is not aware of any patent not covered by the _Public License_ that the _Software_ infringes, or that _Company_ would infringe by _Expected Use of the Software_.
 
@@ -92,7 +92,7 @@ _Developer_ guarantees that as of the date of this agreement, _Developer_ is not
 
 3.  _Developer_ does not agree to any service-level agreement or other specific guarantee about any _Public Software Repository_.
 
-### <a id="Ensure_License_Compatibility"></a>Ensure License Compatibility
+### <a id="Avoid_License_Compatibility_Problems"></a>Avoid License Compatibility Problems
 
 _Developer_ guarantees that the license terms for _Software Dependencies_ and the _Public License_ are and will remain collectively compatible, so that _Developer_ and others have permission to run, combine, and distribute the combination of _Software_ and its _Software Dependencies_.
 
@@ -100,7 +100,7 @@ _Developer_ guarantees that the license terms for _Software Dependencies_ and th
 
 _Developer_ guarantees that the _Software_ does not and will not contain computer viruses, Trojans, worms, or other malicious code.
 
-### <a id="Make_Patent_License_Explicit"></a>Make Patent License Explicit
+### <a id="Make_Patent_Permission_Explicit"></a>Make Patent Permission Explicit
 
 If the _Public License_ does not explicitly grant a patent license, then _Developer_ licenses _Company_ to do everything with the software that would otherwise infringe any patent claims _Developer_ can license, or becomes able to license.
 
@@ -114,15 +114,15 @@ _Developer_ agrees that if _Company_ fails to comply with any condition or other
 
 Subject to [Indemnification Process](#Indemnification_Process), _Developer_ agrees to give _Company_ _Indemnification_ for _Legal Claims_ by others:
 
-1.  resulting from breach of [Ensure Rights to License](#Ensure_Rights_to_License)
+1.  resulting from breach of [Secure Rights to License the Software](#Secure_Rights_to_License_the_Software)
 
 2.  resulting from breach of [Only Depend on Open Software](#Only_Depend_on_Open_Software)
 
-3.  resulting from breach of [Ensure License Compatibility](#Ensure_License_Compatibility)
+3.  resulting from breach of [Avoid License Compatibility Problems](#Avoid_License_Compatibility_Problems)
 
 4.  resulting from breach of [Keep Malicious Code Out of the Software](#Keep_Malicious_Code_Out_of_the_Software)
 
-5.  that the _Latest Version of the Software_ infringes any patent covered by _Developer_'s guarantee under [Provide Assurance About Patents](#Provide_Assurance_About_Patents)
+5.  that the _Latest Version of the Software_ infringes any patent covered by _Developer_'s guarantee under [Don't Hide Patent Problems](#Don't_Hide_Patent_Problems)
 
 #### <a id="Only_Recourse"></a>Only Recourse
 

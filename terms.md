@@ -222,7 +222,7 @@ Both sides consent to the exclusive jurisdiction of _Developer's Local Courts_. 
 
 1.  **Developer's Address** means the address _Developer_ gives along with their signature to the _Proposal_.
 
-2.  **Dependencies** means software from others that the _Software_ depends on, installs, configures, or links, directly or indirectly.
+2.  **Dependencies** means software, content, and data from others that the _Software_ depends on, installs, configures, or links, directly or indirectly.
 
 3.  **Documentation** means documentation for the _Software_ written or released by _Developer_.
 

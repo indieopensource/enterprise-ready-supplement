@@ -146,7 +146,7 @@
 
         \\  ""Developer's Address"" means the address <Developer> gives along with their signature to the <Proposal>.
 
-        \\  ""Dependencies"" means software from others that the <Software> depends on, installs, configures, or links, directly or indirectly.
+        \\  ""Dependencies"" means software, content, and data from others that the <Software> depends on, installs, configures, or links, directly or indirectly.
 
         \\  ""Documentation"" means documentation for the <Software> written or released by <Developer>.
 

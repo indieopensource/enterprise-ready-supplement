@@ -1,4 +1,4 @@
-# indieopensource.com Enterprise Ready Open Software License
+# indieopensource.com Enterprise Ready Open Software Supplement
 
 an open form contract supplementing open software licenses with enterprise-ready terms
 

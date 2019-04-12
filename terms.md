@@ -114,15 +114,15 @@ _Developer_ agrees that if _Company_ fails to comply with any condition or other
 
 Subject to [Indemnification Process](#Indemnification_Process), _Developer_ agrees to give _Company_ _Indemnification_ for _Legal Claims_ by others:
 
-1.  resulting from breach of [Secure Rights to License the Software](#Secure_Rights_to_License_the_Software)
+1.  that _Expected Use of the Software_ infringes any patent covered by _Developer_'s guarantee under [Don't Hide Patent Problems](#Don't_Hide_Patent_Problems)
 
-2.  resulting from breach of [Only Depend on Open Work](#Only_Depend_on_Open_Work)
+2.  resulting from breach of [Secure Rights to License the Software](#Secure_Rights_to_License_the_Software)
 
-3.  resulting from breach of [Avoid License Compatibility Problems](#Avoid_License_Compatibility_Problems)
+3.  resulting from breach of [Only Depend on Open Work](#Only_Depend_on_Open_Work)
 
-4.  resulting from breach of [Keep Malicious Code Out of the Software](#Keep_Malicious_Code_Out_of_the_Software)
+4.  resulting from breach of [Avoid License Compatibility Problems](#Avoid_License_Compatibility_Problems)
 
-5.  that _Expected Use of the Software_ infringes any patent covered by _Developer_'s guarantee under [Don't Hide Patent Problems](#Don't_Hide_Patent_Problems)
+5.  resulting from breach of [Keep Malicious Code Out of the Software](#Keep_Malicious_Code_Out_of_the_Software)
 
 #### <a id="Only_Recourse"></a>Only Recourse
 

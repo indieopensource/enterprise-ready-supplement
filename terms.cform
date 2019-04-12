@@ -78,6 +78,8 @@
 
             \Indemnification\  Subject to {Indemnification Process}, <Developer> agrees to give <Company> <Indemnification> for <Legal Claims> by others:
 
+                \\  that <Expected Use of the Software> infringes any patent covered by <Developer>'s guarantee under {Don't Hide Patent Problems}
+
                 \\  resulting from breach of {Secure Rights to License the Software}
 
                 \\  resulting from breach of {Only Depend on Open Work}
@@ -85,8 +87,6 @@
                 \\  resulting from breach of {Avoid License Compatibility Problems}
 
                 \\  resulting from breach of {Keep Malicious Code Out of the Software}
-
-                \\  that <Expected Use of the Software> infringes any patent covered by <Developer>'s guarantee under {Don't Hide Patent Problems}
 
             \Only Recourse\  <Company>'s only legal remedy for <Legal Claims> covered by <Indemnification> will be <Indemnification>.
 

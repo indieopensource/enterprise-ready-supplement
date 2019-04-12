@@ -122,7 +122,7 @@ Subject to [Indemnification Process](#Indemnification_Process), _Developer_ agre
 
 4.  resulting from breach of [Keep Malicious Code Out of the Software](#Keep_Malicious_Code_Out_of_the_Software)
 
-5.  that the _Latest Version of the Software_ infringes any patent covered by _Developer_'s guarantee under [Don't Hide Patent Problems](#Don't_Hide_Patent_Problems)
+5.  that _Expected Use of the Software_ infringes any patent covered by _Developer_'s guarantee under [Don't Hide Patent Problems](#Don't_Hide_Patent_Problems)
 
 #### <a id="Only_Recourse"></a>Only Recourse
 

@@ -58,13 +58,13 @@
 
         \Only Depend on Open Software\
 
-            \\  <Developer> guarantees that any <Software Dependencies> are and will be <Open Software> generally available for <Company> to download, free of charge, from a <Public Software Repository>.
+            \\  <Developer> guarantees that any <Dependencies> are and will be <Open Software> generally available for <Company> to download, free of charge, from a <Public Software Repository>.
 
-            \\  <Company> agrees that <Developer> may rely on copies of and references to specific public licenses in "README", "LICENSE", source code, and similar files, and licensing metadata in "package.json" and similar, standardized metadata files, to determine whether <Software Dependencies> are <Open Software>.
+            \\  <Company> agrees that <Developer> may rely on copies of and references to specific public licenses in "README", "LICENSE", source code, and similar files, and licensing metadata in "package.json" and similar, standardized metadata files, to determine whether <Dependencies> are <Open Software>.
 
             \\  <Developer> does not agree to any service-level agreement or other specific guarantee about any <Public Software Repository>.
 
-        \Avoid License Compatibility Problems\  <Developer> guarantees that the license terms for <Software Dependencies> and the <Public License> are and will remain collectively compatible, so that <Developer> and others have permission to run, combine, and distribute the combination of <Software> and its <Software Dependencies>.
+        \Avoid License Compatibility Problems\  <Developer> guarantees that the license terms for <Dependencies> and the <Public License> are and will remain collectively compatible, so that <Developer> and others have permission to run, combine, and distribute the combination of <Software> and its <Dependencies>.
 
         \Keep Malicious Code Out of the Software\  <Developer> guarantees that the <Software> does not and will not contain computer viruses, Trojans, worms, or other malicious code.
 
@@ -166,7 +166,7 @@
 
         \\  ""Public Software Repository"" means a website or Internet service that provides free-of-charge downloads of software.
 
-        \\  ""Software Dependencies"" means software from others that the <Software> depends on, installs, configures, or links, directly or indirectly.
+        \\  ""Dependencies"" means software from others that the <Software> depends on, installs, configures, or links, directly or indirectly.
 
         \\  ""Use of the Software at Company's Own Risk"" means:
 

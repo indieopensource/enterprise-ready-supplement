@@ -86,15 +86,15 @@ _Developer_ guarantees that as of the date of this agreement, _Developer_ is not
 
 ### <a id="Only_Depend_on_Open_Software"></a>Only Depend on Open Software
 
-1.  _Developer_ guarantees that any _Software Dependencies_ are and will be _Open Software_ generally available for _Company_ to download, free of charge, from a _Public Software Repository_.
+1.  _Developer_ guarantees that any _Dependencies_ are and will be _Open Software_ generally available for _Company_ to download, free of charge, from a _Public Software Repository_.
 
-2.  _Company_ agrees that _Developer_ may rely on copies of and references to specific public licenses in "README", "LICENSE", source code, and similar files, and licensing metadata in "package.json" and similar, standardized metadata files, to determine whether _Software Dependencies_ are _Open Software_.
+2.  _Company_ agrees that _Developer_ may rely on copies of and references to specific public licenses in "README", "LICENSE", source code, and similar files, and licensing metadata in "package.json" and similar, standardized metadata files, to determine whether _Dependencies_ are _Open Software_.
 
 3.  _Developer_ does not agree to any service-level agreement or other specific guarantee about any _Public Software Repository_.
 
 ### <a id="Avoid_License_Compatibility_Problems"></a>Avoid License Compatibility Problems
 
-_Developer_ guarantees that the license terms for _Software Dependencies_ and the _Public License_ are and will remain collectively compatible, so that _Developer_ and others have permission to run, combine, and distribute the combination of _Software_ and its _Software Dependencies_.
+_Developer_ guarantees that the license terms for _Dependencies_ and the _Public License_ are and will remain collectively compatible, so that _Developer_ and others have permission to run, combine, and distribute the combination of _Software_ and its _Dependencies_.
 
 ### <a id="Keep_Malicious_Code_Out_of_the_Software"></a>Keep Malicious Code Out of the Software
 
@@ -242,7 +242,7 @@ Both sides consent to the exclusive jurisdiction of _Developer's Local Courts_. 
 
 11.  **Public Software Repository** means a website or Internet service that provides free-of-charge downloads of software.
 
-12.  **Software Dependencies** means software from others that the _Software_ depends on, installs, configures, or links, directly or indirectly.
+12.  **Dependencies** means software from others that the _Software_ depends on, installs, configures, or links, directly or indirectly.
 
 13.  **Use of the Software at Company's Own Risk** means:
 

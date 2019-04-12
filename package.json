@@ -7,15 +7,18 @@
   },
   "husky": {
     "hooks": {
-      "pre-commit": "npm run build:markdown && git add terms.md"
+      "pre-commit": "run-p build:*:markdown && git add terms.md proposal.md"
     }
   },
   "scripts": {
     "test": "commonform lint terms.cform",
-    "build": "run-p build:* && npm run pdf",
-    "build:markdown": "commonform render -f markdown --title 'Enterprise Ready Open Software License Supplement' --blanks blanks.json --signatures signatures.json terms.cform > terms.md",
-    "build:html": "commonform render -f html5 --title 'Enterprise Ready Open Software License Supplement' --blanks blanks.json --signatures signatures.json --ordered-lists terms.cform > terms.html",
-    "build:docx": "commonform render -f docx --title 'Enterprise Ready Open Software License Supplement' --blanks blanks.json --signatures signatures.json --number outline --left-align-title --indent-margins --styles styles.json terms.cform > terms.docx",
-    "pdf": "unoconv terms.docx"
+    "build": "run-p build:** && npm run pdfs",
+    "build:terms:markdown": "commonform render -f markdown --title 'Enterprise Ready Open Software License Supplement' --blanks blanks.json --signatures no-signatures.json terms.cform > terms.md",
+    "build:terms:html": "commonform render -f html5 --title 'Enterprise Ready Open Software License Supplement' --blanks blanks.json --signatures no-signatures.json --ordered-lists terms.cform > terms.html",
+    "build:terms:docx": "commonform render -f docx --title 'Enterprise Ready Open Software License Supplement' --blanks blanks.json --signatures no-signatures.json --number outline --left-align-title --indent-margins --styles styles.json terms.cform > terms.docx",
+    "build:proposal:markdown": "commonform render -f markdown --title 'Enterprise Ready Supplement Proposal' --blanks blanks.json --signatures signatures.json proposal.cform > proposal.md",
+    "build:proposal:html": "commonform render -f html5 --title 'Enterprise Ready Supplement Proposal' --blanks blanks.json --signatures signatures.json --ordered-lists proposal.cform > proposal.html",
+    "build:proposal:docx": "commonform render -f docx --title 'Enterprise Ready Supplement Proposal' --blanks blanks.json --signatures signatures.json --number outline --left-align-title --indent-margins --styles styles.json proposal.cform > proposal.docx",
+    "pdfs": "unoconv terms.docx ; unoconv proposal.docx"
   }
 }

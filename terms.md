@@ -84,11 +84,11 @@ _Developer_ agrees to collect published records showing that other contributors 
 
 _Developer_ guarantees that as of the date of this agreement, _Developer_ is not aware of any patent not covered by the _Public License_ that the _Latest Version of the Software_ infringes, or that _Company_ would infringe by _Expected Use of the Software_.
 
-### <a id="Only_Depend_on_Open_Software"></a>Only Depend on Open Software
+### <a id="Only_Depend_on_Open_Work"></a>Only Depend on Open Work
 
-1.  _Developer_ guarantees that any _Dependencies_ are and will be _Open Software_ generally available for _Company_ to download, free of charge, from a _Public Software Repository_.
+1.  _Developer_ guarantees that any _Dependencies_ are and will be _Open Work_ generally available for _Company_ to download, free of charge, from a _Public Software Repository_.
 
-2.  _Company_ agrees that _Developer_ may rely on copies of and references to specific public licenses in "README", "LICENSE", source code, and similar files, and licensing metadata in "package.json" and similar, standardized metadata files, to determine whether _Dependencies_ are _Open Software_.
+2.  _Company_ agrees that _Developer_ may rely on copies of and references to specific public licenses in "README", "LICENSE", source code, and similar files, and licensing metadata in "package.json" and similar, standardized metadata files, to determine whether _Dependencies_ are _Open Work_.
 
 3.  _Developer_ does not agree to any service-level agreement or other specific guarantee about any _Public Software Repository_.
 
@@ -116,7 +116,7 @@ Subject to [Indemnification Process](#Indemnification_Process), _Developer_ agre
 
 1.  resulting from breach of [Secure Rights to License the Software](#Secure_Rights_to_License_the_Software)
 
-2.  resulting from breach of [Only Depend on Open Software](#Only_Depend_on_Open_Software)
+2.  resulting from breach of [Only Depend on Open Work](#Only_Depend_on_Open_Work)
 
 3.  resulting from breach of [Avoid License Compatibility Problems](#Avoid_License_Compatibility_Problems)
 
@@ -238,7 +238,7 @@ Both sides consent to the exclusive jurisdiction of _Developer's Local Courts_. 
 
 9.  **Notice** means a written communication from one side to the other under [Notice Process](#Notice_Process).
 
-10.  **Open Software** means software licensed to the public on the terms of a standardized form license certified by Blue Oak Council or approved by the Open Source Initiative.
+10.  **Open Work** means software licensed to the public on the terms of a standardized form license certified by Blue Oak Council or approved by the Open Source Initiative.
 
 11.  **Permission** means prior _Notice_ of consent.
 

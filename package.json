@@ -19,6 +19,6 @@
     "build:proposal:markdown": "commonform render -f markdown --title 'Enterprise Ready Supplement Proposal' --blanks blanks.json --signatures signatures.json proposal.cform > proposal.md",
     "build:proposal:html": "commonform render -f html5 --title 'Enterprise Ready Supplement Proposal' --blanks blanks.json --signatures signatures.json --ordered-lists proposal.cform > proposal.html",
     "build:proposal:docx": "commonform render -f docx --title 'Enterprise Ready Supplement Proposal' --blanks blanks.json --signatures signatures.json --number outline --left-align-title --indent-margins --styles styles.json proposal.cform > proposal.docx",
-    "pdfs": "unoconv terms.docx ; unoconv proposal.docx"
+    "pdfs": "unoconv terms.docx proposal.docx"
   }
 }

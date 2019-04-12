@@ -64,7 +64,7 @@
 
             \\  <Developer> does not make any service-level agreement or other specific guarantee about any <Public Software Repository>.
 
-        \Avoid License Compatibility Problems\  <Developer> guarantees that the license terms for <Dependencies> and the <Public License> are and will remain collectively compatible, so that <Developer> and others have permission to run, combine, and distribute the combination of <Software> and its <Dependencies>.
+        \Avoid License Compatibility Problems\  <Developer> guarantees that the license terms for <Dependencies> and the <Public License> are and will remain collectively compatible, so that <Developer> and others have permission to run, combine, and distribute the <Software> with its <Dependencies>.
 
         \Keep Malicious Code Out of the Software\  <Developer> guarantees that the <Software> does not and will not contain computer viruses, Trojans, worms, or other malicious code.
 

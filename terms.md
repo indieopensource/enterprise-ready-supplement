@@ -94,7 +94,7 @@ _Developer_ guarantees that as of the date of this agreement, _Developer_ is not
 
 ### <a id="Avoid_License_Compatibility_Problems"></a>Avoid License Compatibility Problems
 
-_Developer_ guarantees that the license terms for _Dependencies_ and the _Public License_ are and will remain collectively compatible, so that _Developer_ and others have permission to run, combine, and distribute the combination of _Software_ and its _Dependencies_.
+_Developer_ guarantees that the license terms for _Dependencies_ and the _Public License_ are and will remain collectively compatible, so that _Developer_ and others have permission to run, combine, and distribute the _Software_ with its _Dependencies_.
 
 ### <a id="Keep_Malicious_Code_Out_of_the_Software"></a>Keep Malicious Code Out of the Software
 

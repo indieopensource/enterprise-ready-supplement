@@ -96,6 +96,10 @@ _Developer_ guarantees that as of the date of this agreement, _Developer_ is not
 
 _Developer_ guarantees that the license terms for _Software Dependencies_ and the _Public License_ are and will remain collectively compatible, so that _Developer_ and others have permission to run, combine, and distribute the combination of _Software_ and its _Software Dependencies_.
 
+### <a id="Keep_Malicious_Code_Out_of_the_Software"></a>Keep Malicious Code Out of the Software
+
+_Developer_ guarantees that the _Software_ does not and will not contain computer viruses, Trojans, worms, or other malicious code.
+
 ### <a id="Make_Patent_License_Explicit"></a>Make Patent License Explicit
 
 If the _Public License_ does not explicitly grant a patent license, then _Developer_ licenses _Company_ to do everything with the software that would otherwise infringe any patent claims _Developer_ can license, or becomes able to license.
@@ -116,7 +120,9 @@ Subject to [Indemnification Process](#Indemnification_Process), _Developer_ agre
 
 3.  resulting from breach of [Ensure License Compatibility](#Ensure_License_Compatibility)
 
-4.  that the _Latest Version of the Software_ infringes any patent covered by _Developer_'s guarantee under [Provide Assurance About Patents](#Provide_Assurance_About_Patents)
+4.  resulting from breach of [Keep Malicious Code Out of the Software](#Keep_Malicious_Code_Out_of_the_Software)
+
+5.  that the _Latest Version of the Software_ infringes any patent covered by _Developer_'s guarantee under [Provide Assurance About Patents](#Provide_Assurance_About_Patents)
 
 #### <a id="Only_Recourse"></a>Only Recourse
 

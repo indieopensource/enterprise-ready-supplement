@@ -1,13 +1,24 @@
-# Enterprise Ready Supplement Proposal
+---
+title: Enterprise Ready Supplement Proposal
+edition: Development Draft
+signatures:
+  - header: The parties are signing this proposal on the dates by their signatures.
+    term: Developer
+    information: [date, email, address]
+  - header: The parties are signing this proposal on the dates by their signatures.
+    term: Company
+    entities: [{}]
+    information: [date, email, address]
+---
 
 **Developer** and **Company** agree:
 
-1.  This is a proposal for an agreement under the most recent published version of indieopensource.com's Enterprise Ready Open Software Supplement.
+- This is a proposal for an agreement under the most recent published version of indieopensource.com's Enterprise Ready Open Software Supplement.
 
-2.  The **Software** is \[•\].
+- The **Software** is `software identification`.
 
-3.  The **Fee** is \[•\].
+- The **Fee** is `fee`.
 
-4.  The **Payment Method** is \[•\].
+- The **Payment Method** is `payment method`.
 
-5.  The **Term** is \[•\].
+- The **Term** is `term`.

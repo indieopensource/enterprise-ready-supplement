@@ -1,7 +1,0 @@
-{
-  "default term": "one calendar year",
-  "first payment deadline": "seven calendar days",
-  "default payment method": "bank-to-bank transfer, such as FedWire, ACH, SEPA, or SWIFT, if possible, and otherwise a common electronic payment system, such as PayPal, Stripe, or Square Cash",
-  "renewal payment period": "two calendar months",
-  "minimize": "diffs"
-}
